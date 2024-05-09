@@ -2,7 +2,7 @@
 💻I want to become a back end developer<br>📈Currently I'm still learning bout JavaScript<br>🏫And lastly I'm a student from SMKN 4 Bogor
 
 
-Socials Media:
+## Socials Media:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/adariya28) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adariya0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adrian-anugerah-m-a289a7282) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/AAIYR) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22111433) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ADARIYA0) 
 
 # Tech Stack:
