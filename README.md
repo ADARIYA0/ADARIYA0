@@ -1,4 +1,4 @@
-#<h2>Welcome!</h2>
+#<h2 align="center">Welcome!</h2>
 
 <h3>Github Stats:</h3>
 
