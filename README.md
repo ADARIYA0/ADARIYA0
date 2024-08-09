@@ -7,8 +7,8 @@
   <a href="https://www.reddit.com/user/AAIYR">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"/>
   </a>
+
+  <h3>Github Stats:</h3>
+
+  [![ADARIYA0 GitHub stats](https://github-readme-stats.vercel.app/api?username=adariya0)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adariya0)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-
-<h3>Github Stats:</h3>
-
-[![ADARIYA0 GitHub stats](https://github-readme-stats.vercel.app/api?username=adariya0)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adariya0)](https://github.com/anuraghazra/github-readme-stats)
