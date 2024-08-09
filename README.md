@@ -30,5 +30,5 @@
 </a>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=adariya0.visitor-badge" alt="visitor badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=adariya0" alt="visitor badge" />
 </div>
