@@ -28,3 +28,5 @@
 <a href="https://x.com/adariya0">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"/>
 </a>
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=page.id" alt="visitor badge" align="center" />
