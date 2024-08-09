@@ -5,8 +5,8 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/>
   </a>
 
-  <a href="https://x.com/adariya0">
-    <img src="https://www.linkedin.com/in/adrian-anugerah-m-a289a7282/" target="_blank"/>
+  <a href="https://www.linkedin.com/in/adrian-anugerah-m-a289a7282">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
   </a>
 
   <a href="https://www.reddit.com/user/AAIYR">
