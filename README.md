@@ -7,9 +7,6 @@
   <a href="https://www.reddit.com/user/AAIYR">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"/>
   </a>
-  <a href="https://stackoverflow.com/users/22111433/adariya0">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank">
-  </a>
 </div>
 
 <h3>Github Stats:</h3>
