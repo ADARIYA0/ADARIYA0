@@ -1,1 +1,1 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=ADARIYA0&theme=dark&hide_border=true&border_radius=3.8&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)
+![ADARIYA0's Stats](https://github-readme-stats.vercel.app/api?username=ADARIYA0&theme=default&show_icons=true&hide_border=true&count_private=false)
