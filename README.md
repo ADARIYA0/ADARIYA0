@@ -1,3 +1,3 @@
 <h3 align="center">Welcome!</h1>
 
-![ADARIYA0's Stats](https://github-readme-stats.vercel.app/api?username=ADARIYA0&theme=default&show_icons=true&hide_border=false&count_private=false) ![ADARIYA0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ADARIYA0&theme=default&show_icons=true&hide_border=true&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
