@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=adariya0.adariya0" />
-
 <h1 align="center">
   Welcome!
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="25" height="25" />
@@ -30,3 +28,4 @@
 <a href="https://x.com/adariya0">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"/>
 </a>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=adariya0.adariya0" />
