@@ -29,4 +29,4 @@
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"/>
 </a>
 
-<br><img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=adariya0.adariya0" />
+<br>![Visitor](https://komarev.com/ghpvc/?username=adariya0&style=for-the-badge)
