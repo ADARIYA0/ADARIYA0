@@ -1,6 +1,7 @@
 <h3>Github Stats:</h3>
 
 <div align="center">
+  
   [![ADARIYA0 GitHub stats](https://github-readme-stats.vercel.app/api?username=adariya0)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adariya0)](https://github.com/anuraghazra/github-readme-stats)
 
   <a href="https://www.instagram.com/adariya0">
