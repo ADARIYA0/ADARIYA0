@@ -15,7 +15,7 @@
   </a>
   
   <a href="https://stackoverflow.com/users/22111433/adariya0">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=light" target="_blank"/>
+    <img src="https://skillicons.dev/icons?i=stackoverflow&theme=light" target="_blank"/>
   </a>
 
   <a href="https://x.com/adariya0">
