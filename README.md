@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://www.instagram.com/adariya0">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/>
+    <img src="https://skillicons.dev/icons?i=instagram" target="_blank"/>
   </a>
 
   <a href="https://www.linkedin.com/in/adrian-anugerah-m-a289a7282">
