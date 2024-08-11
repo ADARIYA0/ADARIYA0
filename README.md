@@ -5,7 +5,6 @@
 
 <h3>Contact Me:</h3>
 
-<div align="center">
   <a href="https://www.instagram.com/adariya0">
     <img src="https://skillicons.dev/icons?i=instagram&theme=light" target="_blank"/>
   </a>
@@ -17,11 +16,6 @@
   <a href="https://stackoverflow.com/users/22111433/adariya0">
     <img src="https://skillicons.dev/icons?i=stackoverflow&theme=light" target="_blank"/>
   </a>
-
-  <a href="https://x.com/adariya0">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"/>
-  </a>
-</div>
 
 <h3>Github Stats:</h3>
   
