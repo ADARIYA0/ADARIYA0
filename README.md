@@ -3,9 +3,7 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="25" height="25" />
 </h1>
 
-<div align"center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&pause=1000&color=E6EDF3&center=true&width=435&lines=Welcome+to+my+profiles!;Need+something%3F+Just+contact+me+on+my+social+media" alt="Typing SVG" /></a>
-</div>
+<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&pause=1000&color=E6EDF3&width=435&lines=Welcome+to+my+profiles!;Need+something%3F+Just+contact+me+on+my+social+media" alt="Typing SVG" /></a>
 
 <h3>Github Stats:</h3>
 
