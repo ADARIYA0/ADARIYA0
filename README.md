@@ -7,8 +7,10 @@
 <img align="right" style="width: 25%" src="img/photo-profile.jpg" />
 
 <h3>Github Stats:</h3>
-  
-<img src="https://github-readme-stats.vercel.app/api?username=adariya0" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adariya0" />
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=adariya0" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adariya0" />
+</div>
 
 <br><img align="right" src="https://komarev.com/ghpvc/?username=adariya0&style=for-the-badge" />
