@@ -4,7 +4,7 @@
 </h1>
 
 <div align="center">
-  <h3>A lazy guy from bed</h3>
+  <h4>A lazy guy from bed</h4>
   <h2>Contact Me:</h2>
 </div>
 
