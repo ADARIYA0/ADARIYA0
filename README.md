@@ -5,7 +5,6 @@
 
 <div align="center">
   <h3>A lazy guy from bed</h3>
-  # no
   <h2>Contact Me:</h2>
 </div>
 
