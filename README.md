@@ -5,9 +5,8 @@
 
 <h3>Github Stats:</h3>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=adariya0" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adariya0" />
-</div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=adariya0&show_icons=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adariya0&show_icons=true&theme=dark" />
 
 <br><img align="right" src="https://komarev.com/ghpvc/?username=adariya0&style=for-the-badge" />
