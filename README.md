@@ -10,4 +10,4 @@
   
 [![ADARIYA0 GitHub stats](https://github-readme-stats.vercel.app/api?username=adariya0)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adariya0)](https://github.com/anuraghazra/github-readme-stats)
 
-<br><img align="right" src="https://komarev.com/ghpvc/?username=adariya0&style=for-the-badge" />
+<br><img src="https://komarev.com/ghpvc/?username=adariya0&style=for-the-badge" />
