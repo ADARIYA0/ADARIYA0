@@ -19,3 +19,5 @@
 </div>
 
 <br>
+
+<img align="right" src="https://komarev.com/ghpvc/?username=adariya0&style=for-the-badge" />
