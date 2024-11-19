@@ -1,3 +1,5 @@
+![1119](https://github.com/user-attachments/assets/8c190dd5-9642-45e3-a6e7-dffd587ae95e)
+
 <h3>Github Stats:</h3>
 
 ![ADARIYA0 GitHub stats](https://github-readme-stats.vercel.app/api?username=adariya0&show_icons=true&theme=transparent)
