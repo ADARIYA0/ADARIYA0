@@ -1,5 +1,5 @@
-<div align="center" style="width: 150%;">
-  <img src="https://github.com/user-attachments/assets/8c190dd5-9642-45e3-a6e7-dffd587ae95e">
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/895b33e5-4113-40c2-a057-91da99b6d3bc">
 </div>
 
 <h3>Github Stats:</h3>
