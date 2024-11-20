@@ -4,7 +4,7 @@
 
 <img align="left" height="150" src="https://github.com/user-attachments/assets/58f495ff-c256-4c92-9816-f6994b6af248"  />
 
-### My Contact
+<h3 align="center">My contact</h3>
 
 <p align="center">
   <a href="https://www.instagram.com/adariya0">
