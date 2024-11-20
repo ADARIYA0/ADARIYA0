@@ -7,23 +7,23 @@
 <div align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adariya0&show_icons=true&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adariya0&show_icons=true&theme=dark&layout=compact&hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adariya0&show_icons=true"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adariya0&show_icons=true&layout=compact&hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adariya0&show_icons=true&layout=donut-vertical" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adariya0&show_icons=true" />
   </picture>
 
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=adariya0&show_icons=true&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api?username=adariya0&show_icons=true&theme=dark&hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=adariya0&show_icons=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=adariya0&show_icons=true&hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=adariya0&show_icons=true" />
