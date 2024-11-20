@@ -25,7 +25,15 @@
     srcset="https://github-readme-stats.vercel.app/api?username=adariya0&show_icons=true&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=adariya0&layout=compact&show_icons=true" alt="ADARIYA0 github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adariya0&layout=compact&theme=buefy&hide_border=true" /> |
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adariya0&show_icons=true&theme=dark&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adariya0&show_icons=true&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=adariya0&layout=compact&theme=buefy&show_icons=true" alt="ADARIYA0 github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adariya0&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 </picture>
 
