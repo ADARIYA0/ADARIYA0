@@ -3,8 +3,9 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://github.com/user-attachments/assets/58f495ff-c256-4c92-9816-f6994b6af248" />
-
+  <a href="https://youtu.be/dQw4w9WgXcQ?si=UQfPUh0_ZBgZ8zfa">
+    <img height="150" src="https://github.com/user-attachments/assets/58f495ff-c256-4c92-9816-f6994b6af248" alt="ADARIYA profile"/>
+  </a>
 ###
 
   <a href="https://www.instagram.com/adariya0">
@@ -18,7 +19,7 @@
   </a>
 </div>
 
-### Stats
+### My Stats
 
 <div align="center">
   <picture>
