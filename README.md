@@ -4,7 +4,7 @@
 
 <h3>Github Stats:</h3>
 
-<picture align="center">
+<picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adariya0&show_icons=true&theme=dark&layout=donut-vertical"
     media="(prefers-color-scheme: dark)"
@@ -13,10 +13,10 @@
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adariya0&show_icons=true&layout=donut-vertical"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adariya0&show_icons=true&layout=donut-vertical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adariya0&show_icons=true" />
 </picture>
 
-<picture align="center">
+<picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=adariya0&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
