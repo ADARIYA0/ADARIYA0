@@ -6,10 +6,10 @@
 
 <p align="center">
   <a href="https://www.instagram.com/adariya0">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram&theme=light" />
   </a>
   <a href="https://www.linkedin.com/in/adrian-anugerah-m-a289a7282">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
   </a>
 </p>
 
