@@ -8,10 +8,10 @@
 
 <p align="center">
   <a href="https://www.instagram.com/adariya0">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=light" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/adrian-anugerah-m-a289a7282">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
