@@ -13,7 +13,7 @@
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adariya0&show_icons=true&hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adariya0&show_icons=true" />
+  
 </picture>
   
 <picture>
@@ -25,7 +25,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=adariya0&show_icons=true&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=adariya0&show_icons=true" alt="ADARIYA0 github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adariya0&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=adariya0&layout=compact&show_icons=true" alt="ADARIYA0 github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adariya0&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 </picture>
 
