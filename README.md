@@ -2,8 +2,8 @@
 
 ###
 
-<div align="center" alt="ADARIYA profile">
-  <a href="https://youtu.be/dQw4w9WgXcQ?si=UQfPUh0_ZBgZ8zfa">
+<div align="center">
+  <a href="https://youtu.be/dQw4w9WgXcQ?si=UQfPUh0_ZBgZ8zfa" alt="ADARIYA profile picture">
     <img height="150" src="https://github.com/user-attachments/assets/58f495ff-c256-4c92-9816-f6994b6af248" />
   </a>
   
