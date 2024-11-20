@@ -11,7 +11,7 @@
 
 <img align="right" height="150" src="https://github.com/user-attachments/assets/58f495ff-c256-4c92-9816-f6994b6af248"  />
 
-###
+### My skills
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
