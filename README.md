@@ -7,7 +7,7 @@
 <div align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adariya0&show_icons=true&theme=dark&layout=donut-vertical&hide_border=true"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adariya0&show_icons=true&theme=one_dark_pro&layout=donut-vertical&hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
@@ -19,7 +19,7 @@
 
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=adariya0&show_icons=true&theme=dark&hide_border=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=adariya0&show_icons=true&theme=one_dark_pro&hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
