@@ -20,7 +20,7 @@
 
 ### Stats
 
-<div>
+<div align="center">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=adariya0&show_icons=true&theme=dark&hide_border=true"
