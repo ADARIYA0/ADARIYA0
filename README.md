@@ -7,11 +7,11 @@
 <div align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=adariya0&show_icons=true&theme=dark&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"
+      srcset="https://github-readme-stats.vercel.app/api?username=adariya0&show_icons=true&theme=dark&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=adariya0&show_icons=true" />
