@@ -7,7 +7,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=adariya0&show_icons=true&theme=dracula&hide_border=true" alt="ADARIYA0 Github Stats"  />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adariya0&layout=compact&theme=dracula&hide_border=true" alt="ADARIYA0 language stats"  />
 
-### My skills
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
