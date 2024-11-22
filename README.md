@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=adariya0&style=for-the-badge" alt="Profile views counter"/>
+  <img src="https://komarev.com/ghpvc/?username=adariya0" alt="Profile views counter"/>
 </div>
 
 ###
