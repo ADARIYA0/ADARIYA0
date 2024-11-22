@@ -8,9 +8,9 @@
   </a>
 </div>
 
-###
-
-<img align="center" src="https://komarev.com/ghpvc/?username=adariya0&style=for-the-badge" alt="Profile views counter"/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=adariya0&style=for-the-badge" alt="Profile views counter"/>
+</div>
 
 ###
 
