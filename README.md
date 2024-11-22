@@ -7,7 +7,7 @@
     <img height="150" src="https://github.com/user-attachments/assets/58f495ff-c256-4c92-9816-f6994b6af248" />
   </a>
 </div>
-<img align="bottom" src="https://komarev.com/ghpvc/?username=adariya0" alt="Profile views counter"/>
+<img align="center" src="https://komarev.com/ghpvc/?username=adariya0&style=for-the-badge" alt="Profile views counter"/>
 
 ###
 
